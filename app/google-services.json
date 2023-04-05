@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399091019137",
+    "project_id": "signin-dfe03",
+    "storage_bucket": "signin-dfe03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399091019137:android:83813711d73248e1ffcc80",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399091019137-gv9pg204govl6khs45hu3ak41dkiqvn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulVLm_FbFw2b0Mtt-WFUxqHgdr1AwfvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399091019137-gv9pg204govl6khs45hu3ak41dkiqvn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
